@@ -1,0 +1,6 @@
+navbar
+main div flex justify bet items center h-24 max-w-[1240px] mx-auto px-4 
+w-full text-3xl font bold text-[#00df9a]
+
+ul flex 
+p-4
